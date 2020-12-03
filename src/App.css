@@ -1,0 +1,29 @@
+.logo {
+    width:15% !important;
+    display:block;
+    margin:0 auto;
+
+}
+
+.footertag{
+    color: white;
+    text-decoration: none;
+}
+
+.footertagstyle{
+    color: white;
+}
+
+.footertagstyle:hover{
+    color: blue !important;
+}
+
+@media only screen and (min-width : 600px) {
+
+    .logo {
+        width:80%;
+      margin-left:10.5em
+    }
+
+    
+}
